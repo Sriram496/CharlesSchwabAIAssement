@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourseRegistrationApplication/CourseRegistrationApplication.csproj" />
+  <Project Path="CourseRegistrationApplication.Test/CourseRegistrationApplication.Test.csproj" />
+</Solution>
